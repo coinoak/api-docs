@@ -11,7 +11,7 @@
 
 
 #### 开放Rest接口文档
-<https://github.com/coinoak/api-docs/blob/master/websocekt_api_cn.md>
+<https://github.com/coinoak/api-docs/blob/master/rest_api_cn.md>
 
 
 #### 开放WebSocket接口文档
